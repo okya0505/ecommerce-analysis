@@ -49,7 +49,7 @@
 - **客户维护**：高价值客户占比仅 ~8%，建议通过会员积分、定向优惠提升复购率。
 - **品类优化**：电子产品销售额占比最高，可扩展相关配件品类。
 
-## 如何查看详细报告[点击下载 PDF 报告](https://github.com/okya0505/ecommerce-analysis/raw/main/report.pdf)
+[点击下载 PDF 报告](https://github.com/okya0505/ecommerce-analysis/raw/main/report.pdf)
 
 ## 运行项目
 ```bash
